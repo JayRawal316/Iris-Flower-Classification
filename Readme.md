@@ -16,7 +16,7 @@ The project includes data preprocessing, exploratory data analysis (EDA), visual
 ## Dataset
 
 Dataset: Iris Flower Dataset
-
+Source : https://www.kaggle.com/datasets/saurabh00007/iriscsv
 Features:
 
 * Sepal Length (cm)
@@ -155,7 +155,7 @@ and execute all cells.
 
 ## Author
 
-Jay Rawal
+Rawal JayKumar NarendraKumar
 
 Data Science & Business Intelligence Learner
 
